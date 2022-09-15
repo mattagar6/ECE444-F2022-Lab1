@@ -29,3 +29,12 @@ My commit on Ron's repo
 **Activity 6**
 
 Link to my EP repo: https://github.com/mattagar6/ECE444-F2022-EP
+
+**Activity 7**
+
+Rebase command from feature branch into develop branch
+![alt text](images/EP_rebase_title.png)
+Screenshot of modified EP page with my name on it
+![alt text](images/EP_change_title.png)
+
+
