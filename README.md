@@ -9,3 +9,7 @@ Matt Agar
 **Activity 2**
 
 ![alt text](images/merge_develop_helloworld.png)
+
+**Activity 3**
+
+![alt text](images/merge_pr_activity_3.png)
