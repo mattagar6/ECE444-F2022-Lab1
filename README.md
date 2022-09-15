@@ -16,9 +16,9 @@ Matt Agar
 
 **Activity 4**
 
-Ron's commin on my repo
+Ron's commit on my repo
 ![alt text](images/ron_commit_matt.png)
-My commin on Ron's repo
+My commit on Ron's repo
 ![alt text](images/matt_commit_ron.png)
 
 **Activity 5**
