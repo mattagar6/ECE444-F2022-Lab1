@@ -37,4 +37,11 @@ Rebase command from feature branch into develop branch
 Screenshot of modified EP page with my name on it
 ![alt text](images/EP_change_title.png)
 
+**Activity 8**
+
+Rebase command from feature branch into develop branch
+![alt text](images/activity_8_git_commands.png)
+Screenshot of new page with my name on it, and new NavBar item
+![alt text](images/new_page_my_name.png)
+
 
