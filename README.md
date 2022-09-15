@@ -26,4 +26,6 @@ My commit on Ron's repo
 ![alt text](images/activity_5_part_1.png)
 ![alt text](images/activity_5_part_2.png)
 
+**Activity 6**
 
+Link to my EP repo: https://github.com/mattagar6/ECE444-F2022-EP
